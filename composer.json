@@ -22,7 +22,7 @@
             "HTMLBuilder\\": "HTMLBuilder/src"
         }
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stabel",
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
